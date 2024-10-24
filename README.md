@@ -1,3 +1,4 @@
+# 据可靠消息，青年大学习已永久停更，本项目暂停更新
 # 青年大学习(广东)工具
 ![Views](https://views.whatilearened.today/views/github/Chenghow/youthstudy-tool.svg)
 [![stars](https://img.shields.io/github/stars/Chenghow/youthstudy-tool.svg?label=Stars)](https://github.com/Chenghow/youthstudy-tool/stargazers)
